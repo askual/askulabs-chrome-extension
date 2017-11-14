@@ -1,0 +1,381 @@
+[{
+	"id": 4,
+	"date": "2017-11-14T13:58:48",
+	"date_gmt": "2017-11-14T13:58:48",
+	"guid": {
+		"rendered": "http:\/\/campus.tfozo.com\/?p=4"
+	},
+	"modified": "2017-11-14T13:58:48",
+	"modified_gmt": "2017-11-14T13:58:48",
+	"slug": "astu-successfully-hosts-astrobus-ethiopia-outreach-program",
+	"status": "publish",
+	"type": "post",
+	"link": "http:\/\/campus.tfozo.com\/2017\/11\/14\/astu-successfully-hosts-astrobus-ethiopia-outreach-program\/",
+	"title": {
+		"rendered": "ASTU Successfully Hosts Astrobus Ethiopia Outreach Program"
+	},
+	"content": {
+		"rendered": "<p>Ethiopian Space Science Society in collaboration with Astrobus Ethiopia Project outreach Program has successfully conducted one day conference at Adama Science and Technology University, Caf\u00e9 Number 1 meeting hall.<br \/>\nOrganizers of the event explained that Astrobus-Ethiopia is a mobile astronomy outreach program that is carried out by driving a bus to travel three main cities (Adama, Hawassa, and Addis Ababa) and six towns starting from October 21, 2017. The program was organized by a group of Ethiopian astronomers currently working in South Africa, Europe, and America.<br \/>\n, Dr. Lemi Guta, President of the Adama Science and Technology University in his opening speech on the occasion mentioned that Astrobus Ethiopia project is aimed to promote the education of astronomy, technology and scientific thinking among the society. He added that ASTU Space Technology Institute is also working hard in making the Nano satellite sharing the experience from researchers and professors invited from the Republic of Korea.<br \/>\nAccording to Dr. Yabebal Fantaye, a cosmologist with main focus on the analysis of the cosmic microwave background data and staff member of the University of Cape Town in South Africa, the campaign is expected to promote astronomy Education and Public Outreach (EPO), and stimulate a culture of scientific thinking through the use of exciting astronomy activities, develop astronomy outreach material in two major Ethiopian languages (Amharic and Affan Oromo), inspire the youth by interacting with role model scientists, develop a network of outreach programs and establish astronomy research collaboration internationally.<br \/>\nDr. Nebiha Shafi, an astrophysicist with extensive experience in radio astronomy and postdoctoral researcher at the University of the Witwatersrand in Johannesburg, South Africa said that, the team will also make public interaction in main squares, and provide science counseling and advertise science fair.<br \/>\nThe activities during the program include lectures about the universe, galaxy, and the solar system, and sky watching sessions where invited people look at the stars, the moon and planets through small telescopes. She said that the idea is an effective approach to reach out the general public in a creative and inspiring way for promoting astronomy and in general igniting scientific curiosity which in turn drives socio-economic development in Ethiopia.<br \/>\nIt was mentioned that Astrobus Ethiopia Project outreach program was planned to be held for ten consecutive days (from October 20, 2017 to October 29, 2017).<\/p>\n",
+		"protected": false
+	},
+	"excerpt": {
+		"rendered": "<p>Ethiopian Space Science Society in collaboration with Astrobus Ethiopia Project outreach Program has successfully conducted one day conference at Adama Science and Technology University, Caf\u00e9 Number 1 meeting hall. Organizers of the event explained that Astrobus-Ethiopia is a mobile astronomy outreach program that is carried out by driving a bus to travel three main cities &hellip; <a href=\"http:\/\/campus.tfozo.com\/2017\/11\/14\/astu-successfully-hosts-astrobus-ethiopia-outreach-program\/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">ASTU Successfully Hosts Astrobus Ethiopia Outreach Program<\/span><\/a><\/p>\n",
+		"protected": false
+	},
+	"author": 1,
+	"featured_media": 5,
+	"comment_status": "open",
+	"ping_status": "open",
+	"sticky": false,
+	"template": "",
+	"format": "standard",
+	"meta": [],
+	"categories": [1],
+	"tags": [],
+	"_links": {
+		"self": [{
+			"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/posts\/4"
+		}],
+		"collection": [{
+			"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/posts"
+		}],
+		"about": [{
+			"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/types\/post"
+		}],
+		"author": [{
+			"embeddable": true,
+			"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/users\/1"
+		}],
+		"replies": [{
+			"embeddable": true,
+			"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/comments?post=4"
+		}],
+		"version-history": [{
+			"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/posts\/4\/revisions"
+		}],
+		"wp:featuredmedia": [{
+			"embeddable": true,
+			"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/media\/5"
+		}],
+		"wp:attachment": [{
+			"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/media?parent=4"
+		}],
+		"wp:term": [{
+			"taxonomy": "category",
+			"embeddable": true,
+			"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/categories?post=4"
+		}, {
+			"taxonomy": "post_tag",
+			"embeddable": true,
+			"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/tags?post=4"
+		}],
+		"curies": [{
+			"name": "wp",
+			"href": "https:\/\/api.w.org\/{rel}",
+			"templated": true
+		}]
+	},
+	"_embedded": {
+		"author": [{
+			"id": 1,
+			"name": "admin",
+			"url": "",
+			"description": "",
+			"link": "http:\/\/campus.tfozo.com\/author\/admin\/",
+			"slug": "admin",
+			"avatar_urls": {
+				"24": "http:\/\/1.gravatar.com\/avatar\/a6dc2cbaff18ff8043e42484673dfb09?s=24&d=mm&r=g",
+				"48": "http:\/\/1.gravatar.com\/avatar\/a6dc2cbaff18ff8043e42484673dfb09?s=48&d=mm&r=g",
+				"96": "http:\/\/1.gravatar.com\/avatar\/a6dc2cbaff18ff8043e42484673dfb09?s=96&d=mm&r=g"
+			},
+			"_links": {
+				"self": [{
+					"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/users\/1"
+				}],
+				"collection": [{
+					"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/users"
+				}]
+			}
+		}],
+		"wp:featuredmedia": [{
+			"id": 5,
+			"date": "2017-11-14T13:58:35",
+			"slug": "exibition1",
+			"type": "attachment",
+			"link": "http:\/\/campus.tfozo.com\/2017\/11\/14\/astu-successfully-hosts-astrobus-ethiopia-outreach-program\/exibition1\/",
+			"title": {
+				"rendered": "exibition1"
+			},
+			"author": 1,
+			"caption": {
+				"rendered": ""
+			},
+			"alt_text": "",
+			"media_type": "image",
+			"mime_type": "image\/jpeg",
+			"media_details": {
+				"width": 900,
+				"height": 375,
+				"file": "2017\/11\/exibition1.jpg",
+				"sizes": {
+					"thumbnail": {
+						"file": "exibition1-150x150.jpg",
+						"width": 150,
+						"height": 150,
+						"mime_type": "image\/jpeg",
+						"source_url": "http:\/\/campus.tfozo.com\/wp-content\/uploads\/2017\/11\/exibition1-150x150.jpg"
+					},
+					"medium": {
+						"file": "exibition1-300x125.jpg",
+						"width": 300,
+						"height": 125,
+						"mime_type": "image\/jpeg",
+						"source_url": "http:\/\/campus.tfozo.com\/wp-content\/uploads\/2017\/11\/exibition1-300x125.jpg"
+					},
+					"medium_large": {
+						"file": "exibition1-768x320.jpg",
+						"width": 768,
+						"height": 320,
+						"mime_type": "image\/jpeg",
+						"source_url": "http:\/\/campus.tfozo.com\/wp-content\/uploads\/2017\/11\/exibition1-768x320.jpg"
+					},
+					"post-thumbnail": {
+						"file": "exibition1-825x375.jpg",
+						"width": 825,
+						"height": 375,
+						"mime_type": "image\/jpeg",
+						"source_url": "http:\/\/campus.tfozo.com\/wp-content\/uploads\/2017\/11\/exibition1-825x375.jpg"
+					},
+					"full": {
+						"file": "exibition1.jpg",
+						"width": 900,
+						"height": 375,
+						"mime_type": "image\/jpeg",
+						"source_url": "http:\/\/campus.tfozo.com\/wp-content\/uploads\/2017\/11\/exibition1.jpg"
+					}
+				},
+				"image_meta": {
+					"aperture": "5.6",
+					"credit": "",
+					"camera": "NIKON D3300",
+					"caption": "",
+					"created_timestamp": "1510590674",
+					"copyright": "",
+					"focal_length": "18",
+					"iso": "160",
+					"shutter_speed": "0.008",
+					"title": "",
+					"orientation": "1",
+					"keywords": []
+				}
+			},
+			"source_url": "http:\/\/campus.tfozo.com\/wp-content\/uploads\/2017\/11\/exibition1.jpg",
+			"_links": {
+				"self": [{
+					"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/media\/5"
+				}],
+				"collection": [{
+					"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/media"
+				}],
+				"about": [{
+					"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/types\/attachment"
+				}],
+				"author": [{
+					"embeddable": true,
+					"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/users\/1"
+				}],
+				"replies": [{
+					"embeddable": true,
+					"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/comments?post=5"
+				}]
+			}
+		}],
+		"wp:term": [
+			[{
+				"id": 1,
+				"link": "http:\/\/campus.tfozo.com\/category\/uncategorized\/",
+				"name": "Uncategorized",
+				"slug": "uncategorized",
+				"taxonomy": "category",
+				"_links": {
+					"self": [{
+						"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/categories\/1"
+					}],
+					"collection": [{
+						"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/categories"
+					}],
+					"about": [{
+						"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/taxonomies\/category"
+					}],
+					"wp:post_type": [{
+						"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/posts?categories=1"
+					}],
+					"curies": [{
+						"name": "wp",
+						"href": "https:\/\/api.w.org\/{rel}",
+						"templated": true
+					}]
+				}
+			}],
+			[]
+		]
+	}
+}, {
+	"id": 1,
+	"date": "2017-11-14T13:48:37",
+	"date_gmt": "2017-11-14T13:48:37",
+	"guid": {
+		"rendered": "http:\/\/campus.tfozo.com\/?p=1"
+	},
+	"modified": "2017-11-14T13:48:37",
+	"modified_gmt": "2017-11-14T13:48:37",
+	"slug": "hello-world",
+	"status": "publish",
+	"type": "post",
+	"link": "http:\/\/campus.tfozo.com\/2017\/11\/14\/hello-world\/",
+	"title": {
+		"rendered": "Hello world!"
+	},
+	"content": {
+		"rendered": "<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!<\/p>\n",
+		"protected": false
+	},
+	"excerpt": {
+		"rendered": "<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!<\/p>\n",
+		"protected": false
+	},
+	"author": 1,
+	"featured_media": 0,
+	"comment_status": "open",
+	"ping_status": "open",
+	"sticky": false,
+	"template": "",
+	"format": "standard",
+	"meta": [],
+	"categories": [1],
+	"tags": [],
+	"_links": {
+		"self": [{
+			"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/posts\/1"
+		}],
+		"collection": [{
+			"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/posts"
+		}],
+		"about": [{
+			"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/types\/post"
+		}],
+		"author": [{
+			"embeddable": true,
+			"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/users\/1"
+		}],
+		"replies": [{
+			"embeddable": true,
+			"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/comments?post=1"
+		}],
+		"version-history": [{
+			"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/posts\/1\/revisions"
+		}],
+		"wp:attachment": [{
+			"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/media?parent=1"
+		}],
+		"wp:term": [{
+			"taxonomy": "category",
+			"embeddable": true,
+			"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/categories?post=1"
+		}, {
+			"taxonomy": "post_tag",
+			"embeddable": true,
+			"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/tags?post=1"
+		}],
+		"curies": [{
+			"name": "wp",
+			"href": "https:\/\/api.w.org\/{rel}",
+			"templated": true
+		}]
+	},
+	"_embedded": {
+		"author": [{
+			"id": 1,
+			"name": "admin",
+			"url": "",
+			"description": "",
+			"link": "http:\/\/campus.tfozo.com\/author\/admin\/",
+			"slug": "admin",
+			"avatar_urls": {
+				"24": "http:\/\/1.gravatar.com\/avatar\/a6dc2cbaff18ff8043e42484673dfb09?s=24&d=mm&r=g",
+				"48": "http:\/\/1.gravatar.com\/avatar\/a6dc2cbaff18ff8043e42484673dfb09?s=48&d=mm&r=g",
+				"96": "http:\/\/1.gravatar.com\/avatar\/a6dc2cbaff18ff8043e42484673dfb09?s=96&d=mm&r=g"
+			},
+			"_links": {
+				"self": [{
+					"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/users\/1"
+				}],
+				"collection": [{
+					"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/users"
+				}]
+			}
+		}],
+		"replies": [
+			[{
+				"id": 1,
+				"parent": 0,
+				"author": 0,
+				"author_name": "A WordPress Commenter",
+				"author_url": "https:\/\/wordpress.org\/",
+				"date": "2017-11-14T13:48:37",
+				"content": {
+					"rendered": "<p>Hi, this is a comment.<br \/>\nTo get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br \/>\nCommenter avatars come from <a href=\"https:\/\/gravatar.com\">Gravatar<\/a>.<\/p>\n"
+				},
+				"link": "http:\/\/campus.tfozo.com\/2017\/11\/14\/hello-world\/#comment-1",
+				"type": "comment",
+				"author_avatar_urls": {
+					"24": "http:\/\/1.gravatar.com\/avatar\/d7a973c7dab26985da5f961be7b74480?s=24&d=mm&r=g",
+					"48": "http:\/\/1.gravatar.com\/avatar\/d7a973c7dab26985da5f961be7b74480?s=48&d=mm&r=g",
+					"96": "http:\/\/1.gravatar.com\/avatar\/d7a973c7dab26985da5f961be7b74480?s=96&d=mm&r=g"
+				},
+				"_links": {
+					"self": [{
+						"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/comments\/1"
+					}],
+					"collection": [{
+						"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/comments"
+					}],
+					"up": [{
+						"embeddable": true,
+						"post_type": "post",
+						"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/posts\/1"
+					}]
+				}
+			}]
+		],
+		"wp:term": [
+			[{
+				"id": 1,
+				"link": "http:\/\/campus.tfozo.com\/category\/uncategorized\/",
+				"name": "Uncategorized",
+				"slug": "uncategorized",
+				"taxonomy": "category",
+				"_links": {
+					"self": [{
+						"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/categories\/1"
+					}],
+					"collection": [{
+						"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/categories"
+					}],
+					"about": [{
+						"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/taxonomies\/category"
+					}],
+					"wp:post_type": [{
+						"href": "http:\/\/campus.tfozo.com\/wp-json\/wp\/v2\/posts?categories=1"
+					}],
+					"curies": [{
+						"name": "wp",
+						"href": "https:\/\/api.w.org\/{rel}",
+						"templated": true
+					}]
+				}
+			}],
+			[]
+		]
+	}
+}]
